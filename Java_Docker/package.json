@@ -1,0 +1,14 @@
+{
+  "name": "container-java-web-api",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo App to showcase java API",
+  "main": "app.js",
+  "author": "Jaswanth Kumar <jaswanthkumar54321@gmail.com>",
+  "license": "No Lisence",
+  "dependencies": {
+    "java": "java-1.8.0-openjdk",
+    "express": "4.16.3",
+    "pug": "2.0.3"
+  }
+}
